@@ -10,3 +10,4 @@ b3
 b4
 b5
  issue 6
+ fix 6
